@@ -5,6 +5,7 @@ The manual for how I run a research project, ideation to presentation.
 **Start here:** [`WORKFLOW.md`](WORKFLOW.md)
 **Forgot what to update?** [`MAINTENANCE.md`](MAINTENANCE.md)
 **Output came back wrong?** [`PROMPTING.md`](PROMPTING.md)
+**Need to change the framework?** (UPDATING.md)
 
 ## The five repos
 
@@ -33,6 +34,6 @@ Shared conventions for all phases: [`phases/README.md`](phases/README.md)
 - [x] Ledgers
 - [x] `phases/README.md` — shared conventions
 - [x] `tools/apply_handoff.py` + docs
-- [ ] Phase folders P00–P05 *(batch 2)*
-- [ ] Phase folders P06–P11 *(batch 3)*
-- [ ] Phase folders P12–P18 + `research-index` + `research-project-template` *(batch 4)*
+- [x] Phase folders P00–P05 *(batch 2)*
+- [x] Phase folders P06–P11 *(batch 3)*
+- [x] Phase folders P12–P19 + `research-index` + `research-project-template` *(batch 4)*

@@ -129,6 +129,7 @@ See `phases/README.md` for the conventions every phase inherits.
 | 16 | Artifact evaluation | Only if the venue runs one (checked at P03) |
 | 17 | Talk or poster | Third styling profile · speaker transcript · top-3 attack prep |
 | 18 | Conference logistics | **Visa first** · travel request approval · registration · grants · expense report after |
+| 19 | Framework maintenance | Changing the framework itself. Collect during, change between |
 
 ---
 

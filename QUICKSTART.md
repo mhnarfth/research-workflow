@@ -75,6 +75,7 @@ Never reopen a dead chat.
 | 16 | Artifact evaluation | Only if the venue runs one |
 | 17 | Talk/poster | Third styling profile, transcript |
 | 18 | Logistics | **Visa first**, then everything else |
+| 19 | Framework maintenance | Changing the framework itself. Collect during, change between |
 
 ---
 
