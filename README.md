@@ -5,7 +5,7 @@ The manual for how I run a research project, ideation to presentation.
 **Start here:** [`WORKFLOW.md`](WORKFLOW.md)
 **Forgot what to update?** [`MAINTENANCE.md`](MAINTENANCE.md)
 **Output came back wrong?** [`PROMPTING.md`](PROMPTING.md)
-**Need to change the framework?** (UPDATING.md)
+**Need to change the framework?** [`UPDATING.md`](UPDATING.md)
 
 ## The five repos
 
